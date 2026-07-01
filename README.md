@@ -1,2 +1,2 @@
 # elso-repo
-Gyakorlás
+Gyakorlás.
