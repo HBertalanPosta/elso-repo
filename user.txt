@@ -1,2 +1,2 @@
 username: admin
-password: Kovacs1999!
+password: Szabo2000!
