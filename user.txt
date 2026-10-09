@@ -1,2 +1,2 @@
 username: admin
-password: SecretPassword123
+password: Kovacs1999!
